@@ -7,7 +7,7 @@
 <title>Registration Page</title>
 </head>
 <body>
-<h3>Registration Form | Form</h3>
+<h3>Registration Form | Register Here For Booking your Flight</h3>
 <hr>
 <form action="saveRegistration" method="post">
 <pre>
